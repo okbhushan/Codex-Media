@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack - Subscription & Expense Tracker",
+  "description": "Premium dark glassmorphism subscription and monthly expense tracker with spending trends and bill management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
